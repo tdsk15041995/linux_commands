@@ -1,0 +1,22 @@
+***********Extraction****************
+
+tar.gz
+tar xzvf <folder-name>.tar.gz
+
+tar.bz2
+tar xjvf <folder-name>.tar.bz2
+
+tar
+tar xvf <folder-name>.tar
+
+**********Installation***************
+
+Note: These commands are comman for all file types
+
+cd </path/to/extracted-folder>
+
+./configure
+
+make
+
+sudo make install
