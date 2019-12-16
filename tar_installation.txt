@@ -15,8 +15,8 @@ Note: These commands are comman for all file types
 
 cd </path/to/extracted-folder>
 
-./configure
+./configure or sudo ./configure
 
-make
+make or sudo make
 
 sudo make install
