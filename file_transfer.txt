@@ -1,0 +1,14 @@
+*********Being working on local sys**************
+# Transfer file from local sys to remote sys 
+scp <local_path> <remote_user>@<remote_ip>:<remote_path>
+
+# Recieve file from remote sys to local sys  
+scp <remote_user>@<remote_ip>:<remote_path> <local_path>
+
+<local_path> where file is present on local sys
+<remote_path> where file is to be copied
+
+Note: Remote sys password will be asked
+*************************************************
+Note: When working on remote sys , your remote will become local
+      and local will become remote
