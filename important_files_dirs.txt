@@ -1,0 +1,7 @@
+**********************************************************************************************************************
+# Contains repos used by ubuntu for downloading packages
+/etc/apt/sources.list and /etc/apt/sources.list.d/
+
+Very useful when not able to update the apt. Mostly removing repos helps system up completely
+
+***********************************************************************************************************************
